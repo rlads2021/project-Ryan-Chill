@@ -15,4 +15,4 @@ G14 組長有社交恐懼
 
 - [投影片](./G14_slides.pdf)
 - [書面報告](./G14_report.pdf)  
-- [Shiny App](./src/shiny/shiny_final.R)。
+- [Shiny App](./src/shiny/shiny_final.R)
